@@ -1,0 +1,2 @@
+# BinanceAnnouncement
+Publish binance announcement
