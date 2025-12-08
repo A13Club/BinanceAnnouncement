@@ -1,0 +1,49 @@
+# Invite Friends & Unlock Up to 30% Off on BTC, ETH, BNB, SOL, XRP Purchases!
+
+This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. 
+
+Fellow Binancians,
+
+We’re thrilled to launch an exciting new promotion that lets you unlock up to 30% off when purchasing BTC, ETH, BNB, SOL, and XRP — simply by completing referral tasks!
+
+Invite & Unlock Your Discount Now
+
+Promotion Period: 2025-12-08 06:00 (UTC) to 2025-12-21 23:59 (UTC) 
+
+Promotion A: Invite Friends & Unlock Up to 30% Off on Crypto Purchases
+
+How to Participate: 
+
+Step 1: Visit and click [Join Now] on the activity page to confirm your participation.Step 2: Share your unique Activity Referral link/code obtained from the activity page and invite friends. It will be counted as a successful referral when the newly invited friend trades a cumulative volume of $100 or more on Binance Spot or Convert during the Promotion Period.
+
+Step 3: Buy BTC, ETH, BNB, SOL, or XRP using USDT or USDC trading pairs via Binance Spot during the Promotion Period.
+
+Reward Structure
+
+Based on the number of successful referrals, you can unlock your discount rate on BTC, ETH, BNB, SOL, or XRP purchases during the Promotion Period, according to the table below.
+
+Users will receive a cashback of their eligible discount value in the form of a randomized token voucher, distributed within 21 days after the Promotion ends.
+
+Discount RateRequirements Cashback Cap10% off Invite at least 3 successful referrals	Up to $50 30% offInvite at least 10 successful referralsUp to $150
+
+Please Note:
+
+A successful referral is defined as a newly registered user via the participants’ unique Activity Referral link/code who completes a cumulative trading volume of $100 or more on Binance Spot or Convert during the promotion period and passes Binance’s risk assessment (including KYC).Only purchases of BTC, ETH, BNB, SOL, and XRP made using USDT or USDC trading pairs via Binance Spot during the Promotion Period are eligible for cashback. For example:Participant A unlocks a 10% discount rate by successfully inviting 3 friends during the Promotion Period, and buys BTC worth $100. Participant A will receive a $10 token voucher (10% of $100) after the campaign ends.If the participant buys BTC worth $1,000, a $50 token voucher will be issued, which is the maximum cashback cap for the 10% discount tier.The total prize pool for Promotion A is capped at selected tokens worth $80,000. Cashback will be distributed on a first-come, first-served basis according to the order of the time the participant registered by clicking [Join Now] on the activity page.
+
+Promotion B: First 5,000 New Users Exclusive - Complete Tasks to Receive Rewards
+
+During the Promotion Period, the first 5,000 new users who fulfil the following criteria will each receive a randomly generated reward valued between $2 to $10, in selected token vouchers: 
+
+Register via a participating user’s unique Activity Referral link/code;Complete a trading volume of $100 or more on Binance Spot or Convert during the Promotion Period.
+
+Terms & Conditions:
+
+These terms and conditions (“Activity Terms”) govern users’ participation in the activity above (“Activity”). By participating in this Activity, users agree to these Activity Terms, and the following additional terms: (a) Binance Terms and Conditions for Prize Promotions; (b) Binance Terms of Use; and (c) Binance Privacy Notice; all of which are incorporated by reference into these terms and conditions. In the case of any inconsistency or conflict between these Activity Terms, and any other incorporated terms, the provisions of these Activity Terms shall prevail, followed by the  following in this order of precedence, and to the extent of such conflict: (a) Binance Terms and Conditions for Prize Promotions; (b) Binance Terms of Use; and (c) Binance Privacy Notice.Users in restricted regions are disqualified from participating in the Binance Referral Program and/or the Binance Affiliate Program as referrers or referred users. Only users who complete identity verification and confirm their participation during the Promotion Period can qualify for rewards in the Promotion. The products or features referred to above may not be available in your region. Users are responsible for informing themselves about and observing any restrictions and/or requirements imposed with respect to the access to and use of Binance services in each country from which the services are accessed.Referrers shall not exert undue influence on invitees to conduct any trading activities on the Binance platform. Invitees are responsible to conduct their own due diligence and ensure that any trading activities conducted are suitable for their risk appetite. All trading volumes on Spot zero fee trading pairs and USDT/DAI, as well as any Convert trades between USDT, USDC, FDUSD, TUSD, DAI, USDP, USTC, BUSD, AEUR, and EURI, will not be considered as valid trading volume of the referred new users.Binance will use the price of the USDT trading pair at trading time to calculate the value of the trades completed on Binance Spot or Binance Convert. If there is no USDT pair for a specific cryptocurrency, it will be converted to another token or coin with a USDT pair to determine its value. In compliance with MiCA requirements, unauthorized stablecoins are subject to certain restrictions for EEA users. Trading volumes on all FDUSD, TUSD, and USDT trading pairs will not count toward the trading volume requirement for EEA users in this promotion. For more information, please click here.Each new user can only be referred to Binance through one referral program. Consequently, referrers are eligible to receive rewards from only one referral program per unique referral.Sub-accounts cannot be used to participate in this promotion. Spot or Convert trades that are completed with a sub-account will not count toward the trading volume requirement.Reward Distribution:Cashback and reward for eligible new invitees will be distributed in token voucher within 21 days after the activity ends, the amount of token voucher will be calculated on the closing price of reward token on 2025-12-21. The validity period to claim the token voucher is set at 7 days from the day of distribution. Users should redeem the token vouchers before the expiry date. Thereafter, the token vouchers will become invalid. Learn how to redeem a voucher. Any references to “$” above means “United States Dollar” unless otherwise specified. Binance reserves the right to disqualify a user’s reward eligibility if the account is involved in any dishonest behavior (e.g., wash trading, illegally bulk account registrations/logins, self dealing, or market manipulation). Binance further reserves the right to disqualify any participants who tamper with Binance program code, or interfere with the operation of Binance program code with other software.At Binance's sole discretion, user participation will be considered without effect and users will automatically be excluded, disqualified and prevented from accumulating benefits, in cases where it is identified: Any violations of Binance's Terms of Use and its Compliance Policies, as well as attempted or proven fraud, human and/or through the use of technology; Manipulation of results or failure to fulfill the requirements and provisions set forth in these Terms and Conditions; Completion, by the user, of incorrect, outdated, mistaken information or filled with untrue information, and may also be liable for the crime of ideological or documental falsehood; Registrations and participations for which any technological means have been used or there are indications of their use, whether electronic, computerized, digital, robotic, repetitive, automatic, mechanical and/or analogous, with the intention of automatic and/or repetitive reproduction of registrations, identical or not, which will also result in the nullity of all registrations and participations made by the user who has used one of the aforementioned means or for one of the aforementioned purposes, even if not all registrations or participations have resulted from the use of such means and/or were carried out with such purpose.Binance reserves the right at any time in its sole and absolute discretion to determine and/or amend or vary these terms and conditions without prior notice, including but not limited to canceling, extending, terminating or suspending this Activity, the eligibility terms and criteria, the selection and number of winners, and the timing of any act to be done, and all Participants shall be bound by these amendments. There may be discrepancies between this original content in English and any translated versions. Please refer to the original English version for the most accurate information, in case any discrepancies arise.
+
+Thank you for your support!
+
+Binance Team
+
+2025-12-08
+
+EURI is an e-money token issued by Banking Circle S.A (https://www.bankingcircle.com/). EURI’s whitepaper is available here. You may contact Banking Circle using the following contact information: +44 (0)7867254482 and clientservices@bankingcircle.com.  EURI purchasers can exchange their EURI at par value for funds denominated in the official currency that the EURI is referencing (EUR) for the monetary value of the EUR held by Banking Circle for the purchaser of the EURI. USDC is an e-money token issued by Circle Internet Financial Europe SAS (https://www.circle.com/). USDC’s whitepaper is available here. You may contact Circle using the following contact information: +33(1)59000130 and EEA-Customer-Support@circle.com. Holders of USDC have a legal claim against Circle SAS as the EU issuer of USDC. These holders are entitled to request redemption of their USDC from Circle SAS. Such redemption will be made at any time and at par value.
