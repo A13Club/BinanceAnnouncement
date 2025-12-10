@@ -1,0 +1,27 @@
+# Binance Futures Will Support USD1 in Multi-Assets Mode (2025-12-11)
+
+This is a general announcement. Products and services referred to here may not be available in your region.
+
+Fellow Binancians,
+
+Binance Futures will support World Liberty Financial USD (USD1) as a margin asset in the Multi-Assets Mode starting from 2025-12-11 09:00 (UTC).
+
+Please Note:
+
+The maximum transfer-in limits for USD1 as a margin asset depend on users’ VIP levels. Please refer to the Multi-Assets Info page for more details.The haircut rates for USD1 in an Auto-Exchange are set at 1%. 
+
+USD1 margin balances are calculated according to the USD1 price index in real time.Binance reserves the right to amend maximum transfer-in limits and haircut rates depending on market conditions.There may be discrepancies between this original content in English and any translated versions. Please refer to the original English version for the most accurate information, in case any discrepancies arise.
+
+For More Information:
+
+What Is Multi-Assets Mode
+
+How Does Auto-Exchange Work in Multi-Assets Mode
+
+Frequently Asked Questions on Multi-Assets Mode
+
+Thank you for your support!
+
+Binance Team
+
+2025-12-10
