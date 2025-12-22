@@ -1,0 +1,49 @@
+# Binance Alpha Limited-Time Task: Transfer Crypto in Chat to Earn Alpha Points!
+
+This is a general announcement. Products and services referred to here may not be available in your region.
+
+Fellow Binancians,
+
+Binance is excited to launch a limited-time task for users to earn Binance Alpha Points. During the Promotion Period, users who complete crypto transfers in Binance Chat will win Binance Alpha Points. 
+
+Enjoy free, seamless, and hassle-free crypto transfers with Binance Chat. Instantly send USDC and other cryptocurrencies to any friend, anywhere, anytime — all with zero fees in Chat!
+
+Promotion Period: 2025-12-22 00:00 - 2026-01-04 23:59 (UTC)
+
+How to Get Started:
+
+Users can access the transfer crypto via chat function from both website and App.
+
+Step 1: Navigate to Binance Chat.Log in to your Binance App and tap the [Chat] widget on the homepage, or the message icon at the top left corner.
+
+Step 2: Open a conversation from the chat list. Before making a crypto transfer in Chat, simply add your friend to Binance Chat contacts by entering their Binance User ID or Chat ID if you haven't added any contacts yet.Step 3: On the chat interface, choose [+] > [Send Crypto].Step 4: Select the asset to send and enter the amount you wish to transfer. Follow the instructions to complete the transfer.
+
+Send Crypto via Binance Chat Now!
+
+Reward Structure:
+
+For every 2 unique crypto transfers, each to a different user, in Binance Chat, users will receive 1 Binance Alpha Point, as per the table below:
+
+Unique Crypto Transfer Counterparty via Binance ChatBinance Alpha Point Reward102131425263738494105Above 105
+
+Note:
+
+Each user can earn up to a maximum of 5 Binance Alpha Points during the Promotion.An eligible transfer to qualify for Alpha Points must be at least $5 or equivalent.
+
+Benefits of Sending Crypto in Chat
+
+Fast and Convenient: Transfer crypto instantly while chatting without switching to Pay or other apps.Free of Charge: Enjoy zero fees on crypto transfers within the chat.Secure Transactions: Built-in security measures ensure your funds are safe.Easy to Use: Simple steps to send crypto directly to your contacts.
+
+Related Guides & Materials:
+
+Binance Chat User GuideHow to Send Crypto in Binance ChatFrequently Asked Questions on Binance Alpha Points
+
+Terms & Conditions:
+
+This Promotion is available to all verified users who have access to the transfer feature in Binance Chat. The products or features referred to above may not be available in your region. Users are responsible for informing themselves about and observing any restrictions and/or requirements imposed with respect to the access to and use of Binance services in each country from which the services are accessed.Task RequirementsFor every two unique crypto transfers to different users a user makes in Binance Chat, each transfer being at least the equivalent of 5 USD equivalent, the user will receive 1 Binance Alpha Point.Each user can earn up to a maximum of 5 Binance Alpha Points during the Promotion Period.Duplicate transfers are not counted. For multiple transfers to the same user, only the first transfer is eligible for Binance Alpha Points. Transfers on the next day or subsequent transfers to the same chat user considered duplicates and will not accumulate Binance Alpha Points.Transfers between sub-accounts under the same master account are not counted.If a transfer relationship has already been established with the same user (either sending or receiving), reverse transfers will not count towards the Promotion. For example, if User A transfers crypto of at least $5 or equivalent to User B, it will be counted towards User A’s unique transfers, but if User B transfers any amount of crypto back to User A, it will not be counted towards any of User B’s unique transfers.Only the user initiating the transfer can earn Alpha Points, the recipient does not receive Alpha Points.Reward Distribution: Binance Alpha Points earned from this Promotion will be distributed daily to eligible users, starting one day after they complete the eligible task.Users can view the distribution history via Alpha Events > Daily Points Breakdown > Task Points.Binance reserves the right to disqualify any participants who tamper with Binance program code, or interfere with the operation of Binance program code with other software.Binance reserves the right to disqualify user’s reward eligibility if the account is involved in any dishonest behavior (e.g., wash trading, illegally bulk registered accounts, self dealing, or market manipulation).Binance reserves the right to determine and/or amend or vary these Terms & Conditions, its eligibility terms, and criteria, the selection and number of winners, and the timing of any act to be done if it is justified due to important reasons, namely applicable:Changes in applicable regulations or policies;Obligations arising out of law or decisions issued by common courts or public administration;Anti-money laundering or combating financing terrorism rules;Technical issues beyond our control;Necessity to protect users from potential losses;Necessity to protect Binance from the loss of reputation;Extraordinary events or circumstances beyond our control (force majeure).There may be discrepancies between this original content in English and any translated versions. Please refer to the original English version for the most accurate information, in case any discrepancies arise.
+
+Thank you for your support!
+
+Binance Team
+
+2025-12-22
