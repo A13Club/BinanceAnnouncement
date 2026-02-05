@@ -1,0 +1,33 @@
+# MENA Exclusive: Referral Rush - Invite Friends & Share $45,000 in USDT Token Rewards
+
+This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.
+
+Fellow Binancians, 
+
+Join us in celebrating our valued users in MENA (excluding Jordan) with an exclusive campaign! With $45,000 worth of USDT token vouchers up for grabs, participants have the opportunity to earn exciting rewards by inviting their friends and family to sign up and make their first trade on Binance.
+
+Promotion Period: 2026-02-04 08:00 (UTC) to 2026-02-17 23:59 (UTC)
+
+How to Participate:
+
+Visit the activity page and share your limited-time activity referral link with friends.For each successful referral, the referrer can unlock a Reward Box containing $3 to $20 in USDT, while the referee can unlock a Reward Box containing $2 to $10 in USDT, available on a first-come, first-served basis.Open the Reward Box to claim the reward. The token voucher will be sent to the referrer’s and referee’s Rewards Hub respectively.
+
+Please Note:
+
+A successful referral refers to a newly referred user who successfully registers on Binance via the referrer’s limited-time activity referral link, completes identity verification (KYC), and trade an accumulative amount of at least $20 equivalent via Binance Spot, Convert, or Futures during the Promotion Period.Each eligible user can unlock a maximum of 20 Reward Boxes on a first-come, first-served basis during the Promotion Period. 
+
+The following pairs are excluded from the Convert task: TUSDUSDT, FDUSDUSDT, USDCUSDT, USDTDAI, FDUSDTUSD, TUSDUSDC, DAITUSD, FDUSDUSDC, DAIFDUSD, DAIUSDC, AEUREUR, BUSDFDUSD, EUREURI
+
+Participate Now
+
+Terms & Conditions:
+
+Only verified users in the MENA region, excluding Jordan, are eligible to join this Promotion. Users may refer to the activity page for their eligibility to participate. USDT tokens featured in this Promotion are included without endorsement, promotion, or recommendation by Binance.Qualifying users must download and log in to the Binance App to be eligible to claim the Reward Boxes.These terms and conditions (“Activity Terms”) govern users’ participation in the MENA Exclusive Game of Referrals Campaign (“Activity”). By participating in this Activity, users agree to these Activity Terms, and the following additional terms: (a) Binance Terms and Conditions for Prize Promotions; (b) Binance Terms of Use; and (c) Binance Privacy Notice; all of which are incorporated by reference into these terms and conditions. In the case of any inconsistency or conflict between these Activity Terms, and any other incorporated terms, the provisions of these Activity Terms shall prevail, followed by the  following in this order of precedence, and to the extent of such conflict: (a) Binance Terms and Conditions for Prize Promotions; (b) Binance Terms of Use; and (c) Binance Privacy Notice.MENA Exclusive Referral Rush Reward Box Promotion: A successful referral is a new user who registers on Binance through the referrer’s limited-time referral link, completes identity verification (KYC), and completes the trading task during the Promotion Period. For each successful referral, the referrer can unlock a Reward Box containing $3 to $20 in USDT, and the referee can unlock a Reward Box containing $2 to $10 in USDT, available on a first-come, first-served basis.Each user may unlock a maximum of 20 Reward Boxes. Rewards are distributed on a first-come first-served basis. If the USDT prize pool is depleted, referrers and their successful referrals will no longer be eligible for any rewards.Users must open the Reward Box within seven days after the Promotion ends. Thereafter, token voucher rewards will be distributed to users’ Rewards Hub within 48 hours. Learn how to redeem a voucher. Each new user can only be referred to Binance via one referral mode. If a new user registers for a Binance account via this Promotion’s limited-time activity referral ID/link, the referrer will neither be eligible for any commission-based rewards from Referral Pro mode nor the $100 trading fee rebate voucher from Referral mode.Sub-accounts cannot participate in this Promotion. Spot or Convert trades that are completed with a sub-account will not count toward the trading task requirement. Binance will use the real-time fiat currency to USD foreign exchange rates for calculating the price of the USDT trading pair at trading time to calculate the value of the cryptocurrency trade completed during the Promotion Period. If there is no USDT pair for a specific cryptocurrency, it will be converted to another token or coin with a USDT pair to determine its value.
+
+Binance reserves the right to disqualify any participants who tamper with Binance program code, or interfere with the operation of Binance program code with other software.Binance reserves the right to disqualify and revoke rewards for participants who engage in dishonest or abusive activities during the promotion, including but not limited to registering from the same IP or device, bulk-account registrations to farm additional bonuses, creating duplicate registrations with the same identification after account deletion and any other activity in connection with unlawful, fraudulent, or harmful purposes.At Binance's sole discretion, user participation will be considered without effect and users will automatically be excluded, disqualified and prevented from accumulating benefits, in cases where it is identified: Any violations of Binance's Terms of Use and its Compliance Policies, as well as attempted or proven fraud, human and/or through the use of technology; Manipulation of results or failure to fulfill the requirements and provisions set forth in these Terms and Conditions; Completion, by the user, of incorrect, outdated, mistaken information or filled with untrue information, and may also be liable for the crime of ideological or documental falsehood; Registrations and participations for which any technological means have been used or there are indications of their use, whether electronic, computerized, digital, robotic, repetitive, automatic, mechanical and/or analogous, with the intention of automatic and/or repetitive reproduction of registrations, identical or not, which will also result in the nullity of all registrations and participations made by the user who has used one of the aforementioned means or for one of the aforementioned purposes, even if not all registrations or participations have resulted from the use of such means and/or were carried out with such purpose.Binance reserves the right of final interpretation of this Promotion.
+
+Thank you for your support!
+
+Binance Team
+
+2026-02-05
