@@ -1,0 +1,19 @@
+# Binance Algo Trading Fees Removed Effective Immediately
+
+This is a general announcement. Products and services referred to here may not be available in your region.
+
+Fellow Binancians,
+
+Binance is committed to continuously improving the trading experience for our users. As part of this, we are pleased to announce the removal of algorithmic trading fees on Binance, effective immediately.
+
+All users utilizing algorithmic trading strategies will no longer be subject to additional algo-related fees when executing orders on the platform. This change applies across all eligible products and trading pairs where algo trading is supported.
+
+We remain committed to providing a competitive and accessible trading environment for all our users. For any questions, please visit our Help Center or reach out to our support team.
+
+Note: There may be discrepancies in the translated version of this original article in English. Please reference this original version for the latest or most accurate information where any discrepancies may arise.
+
+Thank you for your support!
+
+Binance Team
+
+2026-03-30
