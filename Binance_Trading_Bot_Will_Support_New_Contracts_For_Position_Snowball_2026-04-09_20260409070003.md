@@ -1,0 +1,23 @@
+# Binance Trading Bot Will Support New Contracts For Position Snowball (2026-04-09)
+
+This is a general announcement. Products and services referred to here may not be available in your region.
+
+Fellow Binancians,
+
+To enhance users’ Position Snowball strategies with greater flexibility and growth potential, Binance Trading Bot will support all existing Futures Grid USDⓈ-M Futures contracts for Position Snowball (except ETHBTC Perp), effective from 2026-04-09 08:00 (UTC). 
+
+About Binance Position Snowball
+
+Position Snowball is a strategy of adding to one's position based on existing profits, making it suitable for one-way trending markets. Simply put, it means reinvesting profits to amplify gains, allowing them to compound like a snowball. Based on the core concept of scaling positions using unrealized gains, this logic has been automated into a trading strategy. The initial implementation focuses on adding positions whenever unrealized profits occur, without market timing considerations.
+
+For More Information
+
+What Is Position Snowball and How Does it Work
+
+Note: There may be discrepancies between this original content in English and any translated versions. Please refer to the original English version for the most accurate information, in case any discrepancies arise. 
+
+Thank you for your support!
+
+Binance Team
+
+2026-04-09
