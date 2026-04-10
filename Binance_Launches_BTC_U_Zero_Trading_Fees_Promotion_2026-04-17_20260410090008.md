@@ -1,0 +1,35 @@
+# Binance Launches BTC/U Zero Trading Fees Promotion (2026-04-17)
+
+This is a general announcement. Products and services referred to here may not be available in your region.
+
+Fellow Binancians,
+
+Binance is pleased to announce a zero-fee trading promotion for BTC/U spot and margin trading pair, effective from 2026-04-17 00:00 (UTC).
+
+Promotion Period: 2026-04-17 00:00 (UTC) to 2026-07-16 23:59 (UTC)
+
+During the Promotion Period, eligible users* will enjoy zero maker and taker fees exclusively for the BTC/U spot and margin trading pair. Users can refer to this page for more details on the promotional spot trading pairs. 
+
+Notes:
+
+During the Promotion Period, the trading volume on BTC/U spot and margin trading pair will be excluded from both (i) the VIP tier volume calculation and (ii) all Liquidity Provider programs. During the Promotion Period, BNB discounts, referral rebates, and any other adjustments will not apply to the BTC/U spot trading pair for all users.Standard trading fees apply after the Promotion Period ends. Please refer to the trading fee structure for more details.
+
+Start Trading BTC/U on Binance Spot!
+
+About United Stables (U)
+
+U is a next-generation stablecoin backed by fully fluid assets, designed to unify fragmented liquidity across trading, payments, DeFi, institutional settlement, and AI-driven autonomous systems. It is the embodiment of a "fluid" future where value flows seamlessly between humans and AI. U is the first batch of BNBChain stablecoin to support EIP-3009 gasless authorization, enabling efficient value transfer across ecosystems.
+
+Details:
+
+U Official WebsiteU Stablecoin Contract ID: BscScan
+
+Terms & Conditions: 
+
+*Eligible users, are users who use Binance Spot Trading and may not be available or may be restricted in certain jurisdictions or regions, or to certain users, depending on legal and regulatory requirements. Users are responsible for informing themselves about and observing any restrictions and/or requirements imposed with respect to the access to and use of Binance Spot Trading services in each country or jurisdiction from which the services are accessed.Binance reserves the right to disqualify a user’s eligibility to participate if the account is involved in any dishonest behavior (including, but not limited to, wash trading, illegally bulk account registrations, self dealing, or market manipulation).All trading volume and metrics related to the Promotion Period are measured by Binance in its sole and absolute discretion.Calculation of maker and/or taker fee rebates for the promoted spot and margin trading pairs will resume after the Promotion Period ends (if applicable).Binance reserves the right to cancel or amend the Promotion or Promotion terms and conditions in its sole and absolute discretion, for whatever reason and without prior notice to users.Binance reserves the right to disqualify any participants who, in the opinion of Binance tamper with Binance program code, or interfere with the operation of Binance program code with other software.Trading of the aforementioned new trading pair(s) is subject to eligibility based on the user's country or region of residence. Please note that the list of restricted countries provided below may be changed from time to time, due to mandatory changes in applicable laws and regulations, or other changes relevant to the trading eligibility of these new trading pair(s). Users need to complete account verification to participate in the trading of these new trading pair(s).Please note that this list may be updated periodically to accommodate changes in legal, regulatory, or other factors.Currently, users residing in the following countries or regions will not be able to trade the above-mentioned spot trading pair(s): Canada, Cuba, Crimea Region, Iran, Netherlands, North Korea, Syria, United States of America and its territories (American Samoa, Guam, Puerto Rico, the Northern Mariana Islands, the U.S. Virgin Islands), and any non-government controlled areas of Ukraine.There may be discrepancies between this original content in English and any translated versions. Please refer to the original English version for the most accurate information, in case any discrepancies arise. 
+
+Thank you for your support!
+
+Binance Team
+
+2026-04-10
