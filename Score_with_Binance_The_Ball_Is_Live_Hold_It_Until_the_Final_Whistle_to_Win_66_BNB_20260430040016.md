@@ -1,0 +1,43 @@
+# Score with Binance: The Ball Is Live, Hold It Until the Final Whistle to Win 66 BNB
+
+This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. 
+
+Fellow Binancians,
+
+Get ready to Score with Binance in this new campaign! Time your shot, keep the ball in play and win 66 BNB in token vouchers. 
+
+Activity Period: 2026-04-30 04:00 (UTC) until the final whistle (when the timer reaches 00:00 without interruption), or 30 days after the Activity begins, whichever comes first. 
+
+Join Now
+
+How to Play and Win:
+
+Visit the activity landing page and click the [Register] button. The activity will begin once the total number of participants reaches 50,000.During the Activity Period, each eligible user will receive five free shots in total. If the ball is unavailable, please ensure you have completed account verification (KYC). There will be a universal countdown timer visible to all users. Once you take your shot, the timer starts counting down from 60:00. If another user takes a shot before the final whistle (i.e. before the timer reaches 00:00), the timer resets to 60:00 and the ball stays in play.To win the grand prize, your shot must be the last one that carries the game all the way to the final whistle (i.e. timer reaches 00:00) without the countdown being reset by another player taking a shot.	
+
+How to Get More Shots:
+
+The activity can only be played if you have shots remaining. Each shot represents one chance to reset the countdown clock. If the ball is unavailable, eligible users can complete the following bonus tasks to earn more shots.Available bonus tasks for this campaign:Daily Sharing Task: Click [Share] and invite a friend to play the game together via the invitation link.Trading Task (refreshes every hour upon completion for another chance). During the Activity Period, complete any of the following tasks to earn extra shots: Accumulate at least $100 equivalent in trading volume across any eligible BNB trading pairs on Binance Spot or Convert.Accumulate at least $250 equivalent in trading volume across any trading pairs (except zero-fee pairs) on Binance Spot or Convert.Accumulate at least $500 equivalent in trading volume across any trading pairs on Binance Futures.Referral Task: Click [Invite Now] to generate your dedicated referral link, then share it with a friend to invite them to join Binance. Once the referral is successful, you’ll receive extra shots. The referred user must register for a Binance account, complete account verification (KYC), and complete a first trade of $50 equivalent for this task to be considered successful.  Each user can complete this task for a maximum of 100 times during the Activity Period.
+
+How to Interpret the Rankings on the Landing Page:
+
+Binance will rank users based on how close their shot came to reaching the final whistle before being reset, solely according to Binance’s records. The closer a user’s shot gets to 00:00, the higher their ranking.Users can complete the aforementioned bonus tasks such as daily sharing, trading, or referring friends to earn more shots and increase their chances of becoming the final scorer.If no user manages to carry the game all the way to the final whistle by the end of the Activity Period, the user(s) with the highest ranking whose shot came closest to 00:00 will be eligible for the grand prize.If more than one user shares the highest ranking, the eligible winners will split the grand prize equally.For further information regarding the ball button game, please refer to the FAQ here.
+
+Win 66 BNB Now!
+
+Terms & Conditions:
+
+These terms and conditions (“Activity Terms”) govern users’ participation in this Activity(“Activity”). By participating in this Activity, users agree to these Activity Terms, and the following additional terms: (a) Binance Terms and Conditions for Prize Promotions; (b) Binance Terms of Use; and (c) Binance Privacy Notice; all of which are incorporated by reference into these terms and conditions. In the case of any inconsistency or conflict between these Activity Terms, and any other incorporated terms, the provisions of these Activity Terms shall prevail, followed by the  following in this order of precedence, and to the extent of such conflict: (a) Binance Terms and Conditions for Prize Promotions; (b) Binance Terms of Use; and (c) Binance Privacy Notice.For the purposes of these Activity Terms:“Ball” means the interactive button on the Activity page used by an eligible user to take a Shot.“Shot” means a valid click on the Ball by an eligible user.“Final Whistle” means the moment when the countdown timer reaches 00:00 without interruption.“Ball Stays in Play” means the countdown timer resets because another eligible user has taken a Shot before the Final Whistle.“Final Scorer” means the eligible user whose Shot reaches the Final Whistle without the countdown clock resetting.Only users from qualified regions who complete KYC by the end of the Activity Period shall be eligible for any rewards. This Activity or certain tasks may not be available in a user’s jurisdiction. Users are responsible for informing themselves about and observing any restrictions and/or requirements imposed with respect to the access to and use of Binance services in each country from which the services are accessed.Trading Task: Trading volumes on all FDUSD, TUSD, and USDT trading pairs will not count toward the trading volume requirement for EEA users in this Activity.The following pairs on Spot and Convert are excluded from this campaign: AEUR/USDT, EUR/EURI, FDUSD/USDC, FDUSD/USDT, USD1/USDC, USD1/USDT, USDC/DAI, USDT/DAI, USDT/EURI, USDT/TUSD, USDT/USDC, USDT/USDP, USDT/XUSD, U/USDC, U/USDT, USD1/U, RLUSD/U, RLUSD/USDT.Reward Distribution:Rewards will be distributed in the form of token vouchers within two weeks after the activity concludes. The winner(s) will be able to login and redeem their token voucher rewards via Profile > Rewards Hub. The token voucher will expire within two weeks after distribution. The winner(s) should claim their vouchers before the expiration date. If they do not claim before the deadline, no replacement reward will be provided.  Learn how to redeem a voucher. Non-Binance users may click here to register for a Binance account and get a 10% spot trading fee discount. The 10% spot trading fee discount will remain valid as long as the Binance referral program is in place.  Binance reserves the right to disqualify a user’s reward eligibility if the account is involved in any dishonest behavior (e.g., wash trading, illegally bulk account registrations, risk accounts, self dealing, or market manipulation). Binance further reserves the right to disqualify any participants who tamper with Binance program code, or interfere with the operation of Binance program code with other software.Binance reserves the right at any time in its sole and absolute discretion to determine and/or amend or vary these Activity Terms without prior notice, including but not limited to canceling, extending, terminating or suspending this Activity, its eligibility terms and criteria, the selection and number of winners, and the timing of any act to be done, and all users shall be bound by these amendments.There may be discrepancies between this original content in English and any translated versions. Please refer to the original English version for the most accurate information, in case any discrepancies arise.
+
+Thank you for your support!
+
+Binance Team
+
+2026-04-30
+
+EURI is an e-money token issued by Banking Circle S.A (https://www.bankingcircle.com/). EURI’s whitepaper is available here. You may contact Banking Circle using the following contact information: +44 (0)7867254482 and clientservices@bankingcircle.com.  
+
+EURI purchasers can exchange their EURI at par value for funds denominated in the official currency that the EURI is referencing (EUR) for the monetary value of the EUR held by Banking Circle for the purchaser of the EURI. 
+
+USDC is an e-money token issued by Circle Internet Financial Europe SAS (https://www.circle.com/). USDC’s whitepaper is available here. You may contact Circle using the following contact information: +33(1)59000130 and EEA-Customer-Support@circle.com. 
+
+Holders of USDC have a legal claim against Circle SAS as the EU issuer of USDC. These holders are entitled to request redemption of their USDC from Circle SAS. Such redemption will be made at any time and at par value.
