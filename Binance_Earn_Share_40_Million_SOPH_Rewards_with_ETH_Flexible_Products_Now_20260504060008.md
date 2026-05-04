@@ -1,0 +1,57 @@
+# Binance Earn: Share 40 Million SOPH Rewards with ETH Flexible Products Now!
+
+This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. 
+
+Fellow Binancians,
+
+Binance Simple Earn is pleased to announce two promotions for Simple Earn ETH Flexible Products! All eligible ETH holders who make new subscriptions to ETH Flexible Products during the Promotion Period will have a chance to share 40 million SOPH rewards. 
+
+In addition, eligible users who subscribe to ETH Flexible Products can enjoy up to 1.5% APR, which includes an exclusive 0.1% Bonus Tiered APR on top of the Real-Time APR rewards. 
+
+Promotion A: Binance Earn Monthly Leaderboard - Subscribe to ETH Flexible Products to Share 40 Million SOPH Rewards
+
+Promotion Period: 2026-05-04 00:00 (UTC) to 2026-05-25 23:59 (UTC)
+
+To participate in Promotion A, users must confirm their participation on the campaign page, make new net subscriptions* of at least 0.02 ETH to ETH Flexible Products during the Promotion Period, and maintain at least 0.02 ETH in ETH Flexible Products throughout the Promotion Period.
+
+Eligible users will then be ranked by ETH Score** during the Promotion Period. Eligible participants will qualify to share 40 million SOPH rewards, where the top user can receive 1,800,000 SOPH, as per the table below.
+
+Bonus Points: Users with existing ETH Flexible Subscriptions before the Promotion Period will be entitled to additional bonus points to increase their ETH Score ranking. A snapshot will be taken before the Promotion starts at 2026-05-04 00:00 (UTC).**
+
+Reward Structure:
+
+Eligible Users’ Rankings by ETH Score** During the Promotion PeriodRewards per Eligible User1st Place1,800,000 SOPH2nd Place1,000,000 SOPH3rd Place700,000 SOPH4th to 10th Places200,000 SOPH11th to 50th Places100,000 SOPH51st to 100th Places80,000 SOPH101st to 500th Places30,000 SOPH501st to 1,000th Places16,000 SOPH1,001st to 1,500th Places13,000 SOPHAll Remaining Eligible UsersEqually share 600,000 SOPH (Capped at 2,000 SOPH per user)
+
+Please Note:
+
+*Net subscriptions = (ETH Flexible Products Subscription Amount - ETH Flexible Products Redemption Amount) during the Promotion Period**ETH Score = Sum of Daily Net ETH Flexible Products Subscription Snapshot During the Promotion Period + (Bonus Points).Daily Net ETH Flexible Products Subscription Snapshot = (New ETH Flexible Products Subscription Amount - Total ETH Flexible Products Redemption Amount - Total ETH Locked Products Redemption Amount - Total ETH Staking Redemption Amount) during the Promotion PeriodBonus Points: Snapshot of ETH Flexible Product holdings before the Promotion starts × 22Only users who hold ETH Flexible Products before 2026-05-04 00:00 (UTC) are eligible for bonus points.Only newly-subscribed ETH Flexible Products amount during the Promotion Period are eligible. Redemption from ETH Flexible Products, ETH Locked Products and ETH Staking will reduce the user’s ETH Score. The ETH Score will become negative if the redemption amount is over the subscription amount during the Promotion Period. During the Promotion Period, if a user redeems from ETH Flexible Products, ETH Locked Products or ETH Staking and re-subscribes the same amount to ETH Flexible Products, then this user’s Daily Net ETH Flexible Products Subscription Snapshot will be zero.Case Study 1:User A, who held an existing ETH Flexible Products subscription of 5 ETH before 2026-05-04 00:00 (UTC), opts in to this Promotion and makes a new subscription of 1 ETH to ETH Flexible Products on 2026-05-04, then maintains it until 2026-05-25, with no redemptions made from ETH Flexible Products or ETH Staking.User A will receive bonus points from the existing ETH Flexible Products subscription: 5 × 22 = 110.User A’s Daily Net ETH Flexible Products Subscription Snapshot will be 1 from 2026-05-04 to 2026-05-25, across the 22-day period.Thus, the sum of User A’s ETH Score will be 132.
+
+DateDaily Net ETH Flexible Products Subscription SnapshotETH Score2026-05-0411112026-05-051112………2026-05-251132
+
+Case Study 2:User B, who redeemed 2 ETH from ETH Flexible Products on 2026-05-03, opts in to this Promotion and makes a new subscription of 3 ETH to ETH Flexible Products on 2026-05-04, then maintains it until 2026-05-25. However, User B redeems 4 ETH from ETH Staking on 2026-05-04.User B will not be eligible for any bonus points.User B’s Daily Net ETH Flexible Products Subscription Snapshot will be -1 from 2026-05-04 to 2026-05-25, across the 22-day period.Thus, the sum of User B’s ETH Score will be -22.
+
+DateDaily Net ETH Flexible Products Subscription SnapshotETH Score2026-05-04-1-12026-05-05-1-2……… 2026-05-25-1-22
+
+Promotion B: Enjoy Up to 1.5% APR Rewards with ETH Flexible Products
+
+Promotion Period: 2026-05-04 00:00 (UTC) to 2026-05-25 23:59 (UTC)Subscription Format: Complete subscription on a first-come, first-served basis in accordance with the terms below.Reward Distribution:Bonus Tiered APR: Distributed to users’ Spot Accounts on a daily basis. The first reward will be given the day after accrual starts (two days after subscription).Real-Time APR: Accrued and directly accumulated in users’ Earn Accounts every minute.
+
+Offered Product
+
+Digital AssetDurationAPR During the Promotion PeriodMin. Subscription Limit per UserMax. Subscription Limit per UserTier Range:0 - 0.02 ETHTier Range:> 0.02 ETHETHFlexible1.5%（including 0.1% Bonus Tiered APR, approximately 1.4% Real-Time APR)1.4%（Approximately 1.4% Real-Time APR)0.002 ETHUnlimited
+
+How to Get Started with the ETH Flexible Products:
+
+Users can buy ETH on the Buy Crypto page, which supports payment methods including Visa and Mastercard cards, Apple Pay, Google Pay, and account balances. Users can also deposit ETH to their Binance account. Head to [Simple Earn], and search for ETH. Select FLEXIBLE, and subscribe to ETH Simple Earn Flexible Products to start earning rewards!
+
+Join the Promotion Now!
+
+Terms & Conditions:
+
+These terms and conditions (“Activity Terms”) govern users’ participation in the activity above (“Activity”). By participating in this Activity, users agree to these Activity Terms, and the following additional terms: (a) Binance Terms and Conditions for Prize Promotions; (b) Binance Terms of Use; and (c) Binance Privacy Notice; all of which are incorporated by reference into these terms and conditions. In the case of any inconsistency or conflict between these Activity Terms, and any other incorporated terms, the provisions of these Activity Terms shall prevail, followed by the  following in this order of precedence, and to the extent of such conflict: (a) Binance Terms and Conditions for Prize Promotions; (b) Binance Terms of Use; and (c) Binance Privacy Notice.Only users who complete identity verification during or before the Promotion Period can qualify for rewards in the Promotions. The products or features referred to above may not be available in your region. Users are responsible for informing themselves about and observing any restrictions and/or requirements imposed with respect to the access to and use of Binance services in each country from which the services are accessed.Changes to the Simple Earn Rewards Rate will be published on the Platform from time to time. Please refer to Binance Simple Earn Terms & Conditions and Risk Warning for more information prior to using Simple Earn. Only users who confirm their participation on the campaign page will be eligible for rewards from Promotion A.Reward Distribution:Promotion A:Rewards will be distributed within three (3) weeks after the Promotion ends directly to eligible users’ Spot Accounts. Rewards are distributed based on the reward structure provided above. Once the rewards are distributed, eligible users will receive app push notifications. Users can check rewards via the History > Distribution.Rewards are limited to jurisdictions and are subject to eligibility based on the user's country or region of residence.Promotion B: Real-Time APR is subject to change every minute, please refer to the respective product page(s) for accurate information. Real-Time APR rewards are accrued and directly accumulated in users’ Earn Accounts every minute.Bonus Tiered APR is offered as an additional reward on top of Real-Time APR. Upon subscription, Bonus Tiered APR rewards start to accrue the next day starting from 00:00 (UTC) based on the snapshot of your subscribed amounts to the Flexible Product of the day, which will be taken randomly between 00:00:00 to 23:59:59 (UTC) daily. Rewards will start to be distributed the following day after accrual starts between 00:00 (UTC) and 08:00 (UTC) to the user’s Spot Account.Any redemption of Flexible Products between 00:00:00 (UTC) and 00:00:00 (UTC) of the following day will stop the accrual of any Bonus Tiered APR rewards accruing for that day.Redemptions of Flexible Products will be processed starting with assets that have accrued rewards. Users can check the rewards history from the Earn History. Bonus Tiered APR rewards are calculated based on the subscribed amounts and are subject to the respective tier limit for each token. Please refer to the FAQ for more details.All users who hold open positions for ETH Flexible Products will receive both Real-Time APR and Bonus Tiered APR rewards during the Promotion Period. Once the Promotion ends, users will be entitled to Real-Time APR rewards only. APR rewards are distributed from Binance’s own funds, and are determined based on the assessment and evaluation of prevailing market conditions. The Activity's subscription amount of each user has an upper limit. When the upper limit is reached, users will no longer be able to subscribe.A large amount of redemption requests might delay redemption temporarily. Redemptions may resume upon return of liquidity. Binance is not responsible for any actual or claimed losses as a result of any such delay. Users can view their Flexible Products assets by going to Assets > Earn > Simple Earn.Redemption time for Flexible Products subscriptions: Instant. Binance reserves the right to disqualify a user’s reward eligibility if the account is involved in any dishonest behavior (e.g., wash trading, illegally bulk account registrations/logins, self dealing, or market manipulation). Binance further reserves the right to disqualify any participants who tamper with Binance program code, or interfere with the operation of Binance program code with other software.Binance reserves the right at any time in its sole and absolute discretion to determine and/or amend or vary these terms and conditions without prior notice, including but not limited to canceling, extending, terminating or suspending this Activity, the eligibility terms and criteria, the selection and number of winners, and the timing of any act to be done, and all Participants shall be bound by these amendments. There may be discrepancies between this original content in English and any translated versions. Please refer to the original English version for the most accurate information, in case any discrepancies arise.
+
+Thank you for your support!
+
+Binance Team
+
+2026-05-04
