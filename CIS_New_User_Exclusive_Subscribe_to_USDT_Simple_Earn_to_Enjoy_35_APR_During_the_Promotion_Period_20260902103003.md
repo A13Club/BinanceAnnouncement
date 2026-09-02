@@ -1,0 +1,39 @@
+# CIS New User Exclusive: Subscribe to USDT Simple Earn to Enjoy 35% APR During the Promotion Period!
+
+This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply.
+
+Fellow Binancians,
+
+Binance Earn is pleased to launch a promotion on Simple Earn Flexible Products for eligible users in CIS!  During the Promotion Period, all newly registered users in CIS* who subscribe to USDT Flexible Products can enjoy up to 35% exclusive Bonus Tiered APRs on top of Real-Time APR rewards for 5 days.
+
+Promotion Period: 2026-09-02 08:00:00 (UTC) to 2026-10-02 23:59:59 (UTC)
+
+How to Participate
+
+Only  newly registered users in CIS* who have registered after 2026-08-21 08:00 (UTC) are eligible for this special offer.It may take up to 48 hours before newly registered users can see and subscribe to the special offer.Subscription Format: Maximum five(5) days of subscription period.* Complete subscription on a first-come, first-served basis in accordance with the terms below.Reward Payout: Bonus Tiered APR: Distributed to users’ Spot Accounts on a daily basis.The first reward will be given the day after accrual starts (two days after subscription).Real-Time APR: Accrued and directly accumulated in users’ Earn Accounts every minute.
+
+Simple Earn Flexible Products Special Offer 
+
+Digital AssetDurationAPR During the Promotion PeriodMin. Subscription Limit per UserMax. Subscription Limit per UserUSDT5 DaysTier Range: Subscription Amount  ≤ 200 USDTTier Range: Subscription Amount> 200 USDT   0.1 USDTUnlimitedReal-Time APR+35% Bonus Tiered APR(0 - 200 USDT)Real-Time APR
+
+Subscribe Now
+
+How to Get Started with USDT Flexible Products:
+
+Users can buy USDT on the Buy Crypto page, which supports local and international payment methods including Visa and Mastercard cards, Apple Pay, Google Pay, account balances and SWIFT Bank Transfer (corporate user exclusive). Users can also deposit USDT to their Binance account. Head to [Simple Earn], and search for USDT. Select FLEXIBLE, and subscribe to USDT Simple Earn Flexible Products to start earning exclusive APR Rewards!
+
+Terms & Conditions:
+
+The campaign is available for all CIS new registered users, who refers to users newly registered on the Binance platform after 2026-09-02 08:00:00 (UTC) and whose Identity Verification countries are in following countries/regions: Kazakhstan, Belarus, Azerbaijan, Armenia, Kyrgyzstan, Tajikistan, Turkmenistan, Moldova, Uzbekistan, Georgia. These terms and conditions (“Activity Terms”) govern users’ participation in the activity above (“Activity”). By participating in this Activity, users agree to these Activity Terms, and the following additional terms: (a) Binance Terms and Conditions for Prize Promotions; (b) Binance Terms of Use; and (c) Binance Privacy Notice; all of which are incorporated by reference into these terms and conditions. In the case of any inconsistency or conflict between these Activity Terms, and any other incorporated terms, the provisions of these Activity Terms shall prevail, followed by the  following in this order of precedence, and to the extent of such conflict: (a) Binance Terms and Conditions for Prize Promotions; (b) Binance Terms of Use; and (c) Binance Privacy Notice.Only users who complete identity verification during the Promotion Period can qualify for rewards in the Promotion, and only master accounts qualify for Bonus Tiered APR rewards in the Promotion. Sub-accounts are not eligible to receive Bonus Tiered APR rewards. The products or features referred to above may not be available in your region. Users are responsible for informing themselves about and observing any restrictions and/or requirements imposed with respect to the access to and use of Binance services in each country from which the services are accessed.Changes to the Simple Earn Rewards Rate will be published on the Platform from time to time. Please refer to Binance Simple Earn Terms & Conditions and Risk Warning for more information prior to using Simple Earn. Rewards:Real-Time APR is subject to change every minute, please refer to the respective product page(s) for accurate information. Real-Time APR rewards are accrued and directly accumulated in users’ Earn Accounts every minute.Bonus Tiered APR rewards are offered as an additional reward on top of Real-Time APR. Upon subscription, Bonus Tiered APR rewards start to accrue the next day starting from 00:00 (UTC). Rewards will start to be distributed the following day after accrual starts between 00:00 (UTC) and 08:00 (UTC) to the user’s Spot Account.Any redemption of Flexible Products between 00:00:00 (UTC) and 00:00:00 (UTC) of the following day will stop the accrual of any Bonus Tiered APR rewards accruing for that day.Redemptions of Flexible Products will be processed starting with assets that have accrued rewards. Users can check the rewards history from the Earn History. Bonus Tiered APR rewards are calculated based on the subscribed amounts and are subject to the respective tier limit for each token. Please refer to the FAQ for more details.All users who subscribe to Simple Earn Flexible Products Special Offers will receive both Real-Time APR and Bonus Tiered APR rewards for up to 5 days during the Promotion Period.* Before the Promotion ends, users can enjoy the Special Offer within the 5-day period after the first subscription. Redemption within the 5-day period will terminate the reward accrual of the Bonus Tiered APR rewards from the redemption day. After the Promotion ends, users will only be entitled to Real-Time APR rewards. Example: New User A subscribes to USDT Flexible Products on 
+
+2026-09-26, redeems on 2026-09-29, and resubscribes on 2026-09-30. Bonus Tiered APR rewards will accrue on 2026-09-27, 2026-09-28, and 2026-10-01, and be distributed to User A on 2026-09-28, 2026-09-29, and 2026-10-02. Bonus Tiered APR rewards are calculated based on the subscribed amounts and are subject to the respective tier limit for each token. Please refer to the FAQ for more details.
+
+APR rewards are distributed from Binance’s own funds, and are determined based on the assessment and evaluation of prevailing market conditions. This Promotion is not associated with the issuer of USDT in any manner.
+
+A large amount of redemption requests might delay redemption temporarily. Redemptions may resume upon return of liquidity.Users can view their Flexible Products assets by going to Assets > Earn > Simple Earn > Flexible.Redemption time for Flexible Products subscriptions: Instant.Binance reserves the right to disqualify a user’s reward eligibility if the account is involved in any dishonest behavior (e.g., wash trading, illegally bulk account registrations/logins, self dealing, or market manipulation). Binance further reserves the right to disqualify any participants who tamper with Binance program code, or interfere with the operation of Binance program code with other software.Binance reserves the right at any time in its sole and absolute discretion to determine and/or amend or vary these terms and conditions without prior notice, including but not limited to canceling, extending, terminating or suspending this Promotion, the eligibility terms and criteria, the selection and number of winners, and the timing of any act to be done, and all Participants shall be bound by these amendments. There may be discrepancies between this original content in English and any translated versions. Please refer to the original English version for the most accurate information, in case any discrepancies arise.
+
+Thank you for your support!
+
+Binance Team
+
+2026-09-02
