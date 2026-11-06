@@ -1,0 +1,13 @@
+# Recovery Update #9: Withdrawals for More Assets to Reopen (2026-11-06)
+
+Fellow Binancians, 
+We continue to make progress restoring the withdrawal services and will reopen withdrawals for the assets listed below, beginning at 2026-11-06 04:00 (UTC).
+Not all listed assets will become available at once. Reopening will roll out progressively across the assets as security and readiness checks are completed. Deposit services remain open.
+Assets Planned to Resume Withdrawal
+NetworkAsset(s)BSCUSDE, PENDLE, ZRO, JASMY, BAT, ZBT, ENSO, SUI, HAEDAL, ZAMA, YFI, WLFI, SAHARA, SAND, EUL, OPEN, ANKR, ID, AUCTION, MANA, G, ZKP, CYBER, F, AXL, JST, SUN, MMTBASEZRO, BREV, ZBT, PARTI, VIRTUAL, MORPHO, AXLETHU, XRP, CAKE, LISTA, W, WCTOPTIMISMETH, ZRO, AXL, WLDMATICZRO, SAND, AXL, GRTARBITRUMPENDLE, ZRO, ETHFI, AXL, GRTAVAXCZRO, AXLTRXUSUIFDUSD
+We are prioritizing tokens based on user demand over the past week, restoring each network-asset pair carefully after completing rigorous security checks. Additional assets will be added as they become ready.
+Please check the withdrawal page for your selected asset and network, or visit our network status page, to confirm availability. During rollout, users may see temporary delays or longer processing times due to traffic volume. If a withdrawal doesn't go through, please try again after a short while. We will share updates via our official X channel.
+We continue to work towards reopening withdrawals in phases and strengthening our safeguards. We will share updates as progress continues.
+Thank you for your support!
+Binance Team
+2026-11-06
