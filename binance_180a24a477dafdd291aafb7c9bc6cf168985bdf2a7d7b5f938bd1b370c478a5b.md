@@ -1,0 +1,17 @@
+# Notice on ADR Fees for US Stocks on Binance Stock Trading - October 2026
+
+This is a general announcement. Products and services referred to here may not be available in your region. 
+Fellow Binancians,
+Binance would like to inform users of the applicable American Depositary Receipt (ADR) fees charged by the relevant depositary banks for certain US equities.
+Please refer to the details below regarding the applicable ADR fees and record dates.
+DepositarySymbolCompany NameRecord Date (ET Time)Fee/Share (USDC)CITIBANKLPLLG DISPLAY CO LTD2026-09-300.02CITIBANKNOAHNOAH HOLDINGS LTD2026-09-300.02CITIBANKAXIAYAXIA ENERGIA S.A. CO2026-10-010.02CITIBANKLXEHLixiang Education Holding Co. Ltd.2026-10-010.02JPM-CHASETLXTelix Pharmaceuticals Limited2026-10-010.03JPM-CHASEHDBHDFC BANK LTD2026-10-020.01JPM-CHASERDYADR DR. REDDY'S2026-10-020.02BNY-MELLONKRKR36Kr HOLDINGS INC2026-10-070.02DEUTSCHE BANKICGIntchains Group Limited2026-10-090.02DEUTSCHE BANKPONYPONY AI INC2026-10-140.02DEUTSCHE BANKERICERICSSON (TELEFONAKT)2026-10-200.02DEUTSCHE BANKMOMOHello Group Inc2026-10-200.02DEUTSCHE BANKCOE51Talk Online Education Group2026-10-200.05JPM-CHASEBDRXBiodexa Pharmaceuticals2026-10-220.03
+Please Note:
+ADR fees are typically charged about one month after Binance is charged by the depository. If the user held the asset on the record date, they will still be charged an ADR fee even if they have since liquidated the position(s).When ADR fees become payable, the applicable amount will be automatically deducted in USDC from the user’s account.Any outstanding fees will be automatically deducted once sufficient balance becomes available.In the event of insufficient funds, an equivalent value of assets may be temporarily frozen until payment is successfully collected. There may be discrepancies between this original content in English and any translated versions. Please refer to the original English version for the most accurate information, in case any discrepancies arise.
+Thank you for your support!
+Binance Team
+2026-11-12
+Trade on-the-go with Binance’s crypto trading app (iOS/Android)
+Find us on 
+TelegramWhatsAppXFacebookInstagramDiscord
+Binance reserves the right in its sole discretion to amend or cancel this announcement at any time and for any reasons without prior notice.
+Disclaimer: Nest Trading Limited acts as your introducing broker and routes your orders for Securities to its clearing broker partner, Alpaca Securities LLC, for execution, clearing, settlement and custody. Binance does not handle or custody your Securities. Securities are subject to high market and liquidity risk and price volatility (particularly outside traditional market hours). The value of your investment may go down or up and you may not get back the amount invested. You are solely responsible for your investment decisions and Binance is not liable for any losses you may incur. Past performance is not a reliable predictor of future performance. Before trading, you should make an independent assessment of the appropriateness of the transaction in light of your own objectives and circumstances, including the risks and potential benefits. Consult your own advisers, where appropriate. This information should not be construed as financial or investment advice. Binance may receive payment for order flow remuneration for directing your orders. To learn more about how to protect yourself, visit our Responsible Trading page. For more information, see our Terms of Use, Securities Trading Product Terms and Risk Warning.
